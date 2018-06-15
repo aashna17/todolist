@@ -1,0 +1,7 @@
+{
+  "name": "Todo list:Nodejs",
+  "description": "A to do list app",
+  "repository": "https://github.com/aashna17/todolist.git",
+  "keywords": ["node", "express", "heroku"],
+  
+}
